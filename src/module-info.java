@@ -1,0 +1,2 @@
+module Hafta6lab {
+}
